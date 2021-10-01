@@ -1,4 +1,11 @@
 # Olá! sou Leonardo Estevam.
+
+🎓 Cursando Analise e desenvolvimento de sistema na Unisa.
+
+🎓 Futuro Desenvolvedor Java Jr em formação na Generation Brasil.
+
+🎓 Cursando desenvolvimento Web na Udemy.
+
 <div align="center">
   <a href="https://github.com/leoesttevam">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leoesttevam&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
