@@ -4,7 +4,7 @@
 
 🎓 Futuro Desenvolvedor Java Jr em formação na Generation Brasil.
 
-🎓 Cursando desenvolvimento Web na Udemy.
+:books: Cursando desenvolvimento Web na Udemy.
 
 <div align="center">
   <a href="https://github.com/leoesttevam">
