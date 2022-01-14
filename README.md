@@ -1,8 +1,6 @@
 # Olá! sou Leonardo Estevam.
 
-🎓 Cursando Analise e desenvolvimento de sistema na Unisa.
-
-🎓 Futuro Desenvolvedor Java Jr em formação na Generation Brasil.
+🎓 Formado Desenvolvedor Java Jr na Generation Brasil.
 
 :books: Cursando desenvolvimento Web na Udemy.
 
