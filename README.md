@@ -1,20 +1,10 @@
-<div>
-  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/leonardo-estevam-/"><i>Leonardo Estevam</i></a> 😃️</h1>
-  <p align="center">Formado em desenvolvimento web java <a href="https://brazil.generation.org/"><i>Generation Brasil</i></a>
-</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Leonardo Estevam&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Seja+Bem+Vindo!;+Meu+Nome+e+Leonardo+Estevam;+:%29)](https://git.io/typing-svg)
 
-
-<!-- <h1 align="center"> 
-  Trybe
-</h1>
-
-<p align="center"><i>"A Trybe é uma escola do futuro para qualquer pessoa que deseja construir uma carreira de sucesso em tecnologia. Como estudante a pessoa ainda tem a opção de pagar os estudos apenas quando estiver formada e com um bom trabalho."</i></p> -->
-
-<div align="center">
-  <a href="https://github.com/leoesttevam">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=leoesttevam&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoesttevam=dracula&hide_border=false&&layout=compact"/>
-  </a>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=leoesttevam&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Leonardo Estevam github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoesttevam&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
 <div align="center" valign="top"><br>
@@ -29,10 +19,16 @@
   <img align="center" alt="github" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 </div><br>
 
+<div align="center">  
+<a href="https://www.instagram.com/invites/contact/?i=5qz1dh80g9q4&utm_content=mq7cgge" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+</div> 
 
+![Contribution](https://activity-graph.herokuapp.com/graph?username=leoesttevam&theme=gotham&hide_border=true&area=true)
+
+ 
 <div align="center">
-  
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{leoesttevam}/count.svg" /></p> 
+<br></div>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
